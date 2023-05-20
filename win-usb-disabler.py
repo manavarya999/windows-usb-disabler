@@ -22,4 +22,4 @@ for line in output.splitlines():
         count += 1
 
 if count < 1:
-    print("USB Root Hub not found")
+    print("USB Root Hubs not found")
