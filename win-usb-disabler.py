@@ -16,7 +16,7 @@ for line in output.splitlines():
         
 # Disabling the detected USB Root Hub devices   
         command = f'pnputil /disable-device "{device_id}"'
-        subprocess.run(command, shell=True)
+        subprocess.run(command, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
         print("USB Root Hub disabled successfully.")
         print("\n")
         count += 1
