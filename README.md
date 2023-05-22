@@ -24,3 +24,4 @@ Disconnect all your devices physically connected to your USB ports before runnin
   ```bash
   python win-usb-disabler.py
   ```
+- Restart your system incase you didn't see the changes.
