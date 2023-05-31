@@ -6,21 +6,22 @@ Disconnect all your devices physically connected to your USB ports before runnin
 
 ## Usage
 
-- Run the `Command prompt` or `Powershell` as an administrator in your Windows machine.
+1. Run the `Command prompt` or `Powershell` as an administrator in your Windows machine.
 
-- Clone the repository: 
+2. Clone the repository: 
 
-  ```bash
-    git clone https://github.com/manavarya999/win-usb-disabler.git
-  ```
+    ```bash
+      git clone https://github.com/manavarya999/win-usb-disabler.git
+    ```
 
-- Head over to the directory: 
+3. Head over to the directory: 
 
-  ```bash
-  cd win-usb-disabler
-  ``` 
-- Run the python script:
+    ```bash
+    cd win-usb-disabler
+    ``` 
+4. Run the python script:
 
-  ```bash
-  python win-usb-disabler.py
-  ```
+    ```bash
+    python win-usb-disabler.py
+    ```
+5. Restart your system to see the changes in effect.
