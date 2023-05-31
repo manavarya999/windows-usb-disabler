@@ -11,17 +11,17 @@ Disconnect all your devices physically connected to your USB ports before runnin
 2. Clone the repository: 
 
     ```bash
-      git clone https://github.com/manavarya999/win-usb-disabler.git
+      git clone https://github.com/manavarya999/windows-usb-disabler.git
     ```
 
 3. Head over to the directory: 
 
     ```bash
-    cd win-usb-disabler
+    cd windows-usb-disabler
     ``` 
 4. Run the python script:
 
     ```bash
-    python win-usb-disabler.py
+    python windows-usb-disabler.py
     ```
 5. Restart your system to see the changes in effect.
